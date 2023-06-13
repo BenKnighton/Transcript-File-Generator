@@ -10,4 +10,5 @@ A transcript file will be generated and saved automatically to the same folder a
 For this code to work, you need to install the YOLOv3 model (YOLOv3.mlmodel Storing model weights using full precision (32bit) floating point numbers. 248.4MB) from Apple, which can be found here: https://ml-assets.apple.com/coreml/models/Image/ObjectDetection/YOLOv3/YOLOv3.mlmodel
  
 This then needs to be dragged inside of the XCode environment. I would recommend watching a video on how to use Neural network models in XCode like this one: https://www.youtube.com/watch?v=uRFxyk-xGE4&list=PL2F6YCOKI3dgcskDbcjahBI9gTtz8_Ngh&index=41
-
+ 
+Lastly make sure permissions for User selected file and downloads folder are both set to Read/Write
